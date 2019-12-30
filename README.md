@@ -1,11 +1,11 @@
 # Nick A. Bild, M.S.
 
-Groveland, FL 34736
-nick.bild AT gmail DOT com
-https://github.com/nickbild
-https://nickbild79.firebaseapp.com
+Groveland, FL 34736  
+nick.bild AT gmail DOT com  
+https://github.com/nickbild  
+https://nickbild79.firebaseapp.com  
 
-See “Press” section below for a list of interesting projects I’ve been working on recently that have received significant media coverage.
+See [Press](#press) section below for a list of interesting projects I’ve been working on recently that have received significant media coverage.
 
 # Education
 
