@@ -156,6 +156,9 @@ See [Press](#press) section below for a list of interesting projects I’ve been
 ### I was featured in the January 2020 issue of Practical Electronics magazine.
 - https://www.epemag.com/proj/0120.html
 
+### I wrote, filmed, and starred in a Holiday advertisement for NVIDIA.
+- https://www.facebook.com/NVIDIAEmbedded/videos/2751673244889195/?__xts__[0]=68.ARCM-M6SWEj7MqK-76T47B-6J9sRdeCmK879vzXyKNcat2_c7JFt8iQa3GEoH5FL-U732_Xo4hvDPpK7q7hPirRuD5xhKiAPe5kikUE5w4wn_uFN_wRTqdFM2EY2c6Lwk8yVRIMKPH1FJoU-9V5LhZ9bh5aXj5_jR3BzjNpYrVZwAZZBHmdtTaq8lYbtaUekRKHCPcU6EGPqgbXNrXLt7J6hqFv3DXRcrf51qrZqlmp19H-Q62fB-ouU-lU1OCJ9IQMRUbe_I_cwfRSGAjaeQmXzZDnZkgssGw-RmBa8zPHP8CipxnJ6UzVM7pzORqXJYMZ9NMCjXGEx-Um1SH_zlIq6smP2S-N8f9wXgQ&__tn__=-R
+
 # Publications
 
 ##### Gustavo J. Martinez, Joyce K. Hu, Renata M. Pereira, Jordan S. Crampton, Susan Togher, Nicholas Bild, Shane Crotty, and Anjana Rao. (2016). NFAT Transcription Factors Promote the Generation of Follicular Helper T Cells in Response to Acute Viral Infection. The Journal of Immunology, 196 (4).
