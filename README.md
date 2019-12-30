@@ -213,3 +213,14 @@ See [Press](#press) section below for a list of interesting projects I’ve been
 ##### Food Packager, Kids Against Hunger.  October 2012.
 ##### MediaShout Technician, Community Christian Church.  Tamarac, FL.  October 2012-June 2014.
 ##### ProPresenter Technician, The Grove Church, Clermont, FL.  May 2017-Present.
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-114418488-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-114418488-2');
+</script>
