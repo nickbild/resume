@@ -1,4 +1,4 @@
-[Download PDF](resume_-_nick_bild.pdf)
+[Download PDF](https://github.com/nickbild/resume/raw/master/resume_-_nick_bild.pdf)
 
 # Nick A. Bild, M.S.
 
