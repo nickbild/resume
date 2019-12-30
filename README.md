@@ -41,81 +41,81 @@ See [Press](#press) section below for a list of interesting projects I’ve been
 - Developed custom web-based LIMS (Laboratory Information Management System) to manage lab operations in PHP, MySQL, JavaScript/Ajax, and HTML5.
 
 ### Adjunct Professor for Palm Beach State College, Palm Beach Gardens, FL.
-February 2015-Present.
-Taught BSC 2435 - Introduction to Bioinformatics.
-Awarded “Rookie of the Year”, February 2016.
+##### February 2015-December 2018.
+- Taught BSC 2435 - Introduction to Bioinformatics.
+- Awarded “Rookie of the Year”, February 2016.
 
-Bioinformatics Analyst III for The Scripps Research Institute, Jupiter, FL.
-June 2014-December 2015.
-Developed standardized pipelines to analyze various data types, including RNA-seq, sRNA-seq, and ChIP-seq (Perl, Python, shell scripting).
-Built automated framework to transfer data from instruments (Illumina, SOLiD, Ion, etc.) to a cloud computing environment (Linux, Torque) and begin data analysis without human intervention.
-Created web-based application to track biological samples and inform automated pipelines of proper parameters and analysis methods (PHP, MySQL).
-Performed ad hoc analyses, via custom code and published tools, of many experiments for the Genomics Core and Cancer Biology departments.
+### Bioinformatics Analyst III for The Scripps Research Institute, Jupiter, FL.
+##### June 2014-December 2015.
+- Developed standardized pipelines to analyze various data types, including RNA-seq, sRNA-seq, and ChIP-seq (Perl, Python, shell scripting).
+- Built automated framework to transfer data from instruments (Illumina, SOLiD, Ion, etc.) to a cloud computing environment (Linux, Torque) and begin data analysis without human intervention.
+- Created web-based application to track biological samples and inform automated pipelines of proper parameters and analysis methods (PHP, MySQL).
+- Performed ad hoc analyses, via custom code and published tools, of many experiments for the Genomics Core and Cancer Biology departments.
 
-Lead Software Developer for iCare.com, LLC, Fort Lauderdale, FL.
-March 2012-June 2014.
-Developed new web-delivered, cloud-based EHR based on VA VistA EHR from ground up.
-Developed in GT.M, MUMPS, Javascript, HTML5, and Java.
-Analyzed and modified CPRS (Computerized Patient Record System) in Pascal.
-Installed/configured Linux services including OpenLDAP, memcached, and apache.
-Optimized, maintained, backed up, and recovered GT.M databases.
-Assigned tasks to--and assured code quality of--junior and remote software developers.
+### Lead Software Developer for iCare.com, LLC, Fort Lauderdale, FL.
+##### March 2012-June 2014.
+- Developed new web-delivered, cloud-based EHR based on VA VistA EHR from ground up.
+- Developed in GT.M, MUMPS, Javascript, HTML5, and Java.
+- Analyzed and modified CPRS (Computerized Patient Record System) in Pascal.
+- Installed/configured Linux services including OpenLDAP, memcached, and apache.
+- Optimized, maintained, backed up, and recovered GT.M databases.
+- Assigned tasks to--and assured code quality of--junior and remote software developers.
 
-Senior Programmer Analyst for NorthShore University HealthSystem, Skokie, IL.
-July 2011-March 2012.
-Epic Inpatient/Hospital Outpatient EMR programmer.
-Modified and troubleshot Programming Points and Workflow Engine Rules.
-Built a variety of inpatient-related Epic records.
+### Senior Programmer Analyst for NorthShore University HealthSystem, Skokie, IL.
+##### July 2011-March 2012.
+- Epic Inpatient/Hospital Outpatient EMR programmer.
+- Modified and troubleshot Programming Points and Workflow Engine Rules.
+- Built a variety of inpatient-related Epic records.
 
-Bioinformatics Programmer for the University of Chicago, Chicago, IL.
-September 2008-July 2011.
-Developed bioinformatics applications in perl, python, and PHP.
-Created data analysis pipelines for the modENCODE and ENCODE projects (www.modencode.org; http://www.genome.gov/10005107).
-Developed ad hoc scripts for microarray (Agilent, Affymetrix) and sequencing (Illumina ChIP-seq, RNA-seq) data analysis in cloud-based computing environment.
-Developed pipelines for publishing microarray and sequencing data to GEO and other public repositories.
-Participated in development of a system for management/analysis of biological data (www.cistrack.org).
-Determined and implemented rules necessary for applications to comply with HIPAA.
+### Bioinformatics Programmer for the University of Chicago, Chicago, IL.
+##### September 2008-July 2011.
+- Developed bioinformatics applications in perl, python, and PHP.
+- Created data analysis pipelines for the modENCODE and ENCODE projects (www.modencode.org; http://www.genome.gov/10005107).
+- Developed ad hoc scripts for microarray (Agilent, Affymetrix) and sequencing (Illumina ChIP-seq, RNA-seq) data analysis in cloud-based computing environment.
+- Developed pipelines for publishing microarray and sequencing data to GEO and other public repositories.
+- Participated in development of a system for management/analysis of biological data (www.cistrack.org).
+- Determined and implemented rules necessary for applications to comply with HIPAA.
 
-Application Developer for Family Research Council, Holland, MI.
-November 2004-September 2008.
-Developed large-scale web applications with Coldfusion, SQL, javascript, XML, and HTML.
-Developed Oracle applications with PL/SQL.
-Created and enforced best practices for software development.
-Gathered application requirements from non-technical staff.
-Trained other development staff proper Coldfusion and SQL coding techniques.
-Installed and maintained Linux and Windows servers.
+### Application Developer for Family Research Council, Holland, MI.
+##### November 2004-September 2008.
+- Developed large-scale web applications with Coldfusion, SQL, javascript, XML, and HTML.
+- Developed Oracle applications with PL/SQL.
+- Created and enforced best practices for software development.
+- Gathered application requirements from non-technical staff.
+- Trained other development staff proper Coldfusion and SQL coding techniques.
+- Installed and maintained Linux and Windows servers.
 
-Bioinformatics Consultant for Arivium, Grand Rapids, MI.
-May 2007-December 2007 (Internship).
-Developed C# applications for the interrogation/visualization of millions of electronic patient medical records.
-Created tools to analyze and extract data from many clinical data warehouses.
-Created custom extensions for SpotFire DXP to visualize clinical trial data.
-Researched CDISC/Janus standards for storing and submitting clinical trial data.
+### Bioinformatics Consultant for Arivium, Grand Rapids, MI.
+##### May 2007-December 2007 (Internship).
+- Developed C# applications for the interrogation/visualization of millions of electronic patient medical records.
+- Created tools to analyze and extract data from many clinical data warehouses.
+- Created custom extensions for SpotFire DXP to visualize clinical trial data.
+- Researched CDISC/Janus standards for storing and submitting clinical trial data.
 
-Bioinformatics Research Assistant for Van Andel Research Institute, Grand Rapids, MI.
-May 2007-August 2007 (Graduate School Project).
-Developed applications to support LC-MS data discovery projects.
-Researched various biological databases and created translation tools to integrate heterogeneous data sources.
+### Bioinformatics Research Assistant for Van Andel Research Institute, Grand Rapids, MI.
+##### May 2007-August 2007 (Graduate School Project).
+- Developed applications to support LC-MS data discovery projects.
+- Researched various biological databases and created translation tools to integrate heterogeneous data sources.
 
-Database Analyst for Annis Water Resources Institute, Muskegon, MI.
-June 2004-August 2004 (Contract).
-Reversed engineered the EPA’s STORET application.
-Installed and administered large-scale Oracle 9i DBMS.
+### Database Analyst for Annis Water Resources Institute, Muskegon, MI.
+##### June 2004-August 2004 (Contract).
+- Reversed engineered the EPA’s STORET application.
+- Installed and administered large-scale Oracle 9i DBMS.
 
-Web Applications Developer for Grand Valley State University, Allendale, MI.
-March 2004-June 2004.
-Developed applications with ColdFusion, JavaScript, and SQL.
-Implemented code in accordance with Fusebox methodology.
-Developed/maintained applications for massive university website.
+### Web Applications Developer for Grand Valley State University, Allendale, MI.
+##### March 2004-June 2004.
+- Developed applications with ColdFusion, JavaScript, and SQL.
+- Implemented code in accordance with Fusebox methodology.
+- Developed/maintained applications for massive university website.
 
 
-Software Developer/Network Administrator for New Rules Marketing, Spring Lake, MI.
-September 2002-March 2004.
-Developed applications with PHP, mySQL, Visual Basic, and MS Access.
-Maintained networked Linux, Windows, and MacOS workstations/servers.
-Secured a mixed environment Internet connected LAN.
-Implemented new storage methods and procedures to protect stored data.
-Maintained large-format Encad printers.
+### Software Developer/Network Administrator for New Rules Marketing, Spring Lake, MI.
+##### September 2002-March 2004.
+- Developed applications with PHP, mySQL, Visual Basic, and MS Access.
+- Maintained networked Linux, Windows, and MacOS workstations/servers.
+- Secured a mixed environment Internet connected LAN.
+- Implemented new storage methods and procedures to protect stored data.
+- Maintained large-format Encad printers.
 
 # Press
 
