@@ -2,7 +2,7 @@
 
 Groveland, FL 34736  
 nick.bild AT gmail DOT com  
-  
+
 https://github.com/nickbild  
 https://nickbild79.firebaseapp.com  
 
@@ -21,15 +21,15 @@ See [Press](#press) section below for a list of interesting projects I’ve been
 
 # Relevant Experience
 
-Technical Solutions Engineer II for Sprint Corporation, Maitland, FL.
-November 2018-Present.
-Software Developer III for Sprint Corporation (via TEKsystems), Maitland, FL.
-June 2018-November 2018.
-Architected and developed large enterprise-scale applications in Python and Golang.
-Extended and debugged legacy applications in Perl.
-Designed and optimized SQL queries for MariaDB, Oracle, and Vertica databases.
-Developer Dockerized applications for smooth deployment and shifting of resources.
-Worked on a team of ~40 software engineers in a GitLab CI/CD environment.
+### Technical Solutions Engineer II for Sprint Corporation, Maitland, FL.
+- November 2018-Present.
+- Software Developer III for Sprint Corporation (via TEKsystems), Maitland, FL.
+- June 2018-November 2018.
+- Architected and developed large enterprise-scale applications in Python and Golang.
+- Extended and debugged legacy applications in Perl.
+- Designed and optimized SQL queries for MariaDB, Oracle, and Vertica databases.
+- Developer Dockerized applications for smooth deployment and shifting of resources.
+- Worked on a team of ~40 software engineers in a GitLab CI/CD environment.
 
 Staff Software Engineer for Ocean Ridge Biosciences, Deerfield Beach, FL.
 December 2015-February 2018.
