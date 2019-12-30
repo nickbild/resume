@@ -31,16 +31,16 @@ See [Press](#press) section below for a list of interesting projects I’ve been
 - Developer Dockerized applications for smooth deployment and shifting of resources.
 - Worked on a team of ~40 software engineers in a GitLab CI/CD environment.
 
-Staff Software Engineer for Ocean Ridge Biosciences, Deerfield Beach, FL.
-December 2015-February 2018.
-Developed data analysis pipelines in Perl, Python, and R.
-Built pipelines to analyze biological data, including long RNA, noncoding-RNA, metagenomic, and xenograft data.
-Installed hardware and maintained two Sun Grid Engine clusters.
-Designed MySQL databases to manage large volumes of biological data and facilitate rapid data retrieval.
-Built public and intranet websites in PHP, Drupal, and Perl CGI.
-Developed custom web-based LIMS (Laboratory Information Management System) to manage lab operations in PHP, MySQL, JavaScript/Ajax, and HTML5.
+### Staff Software Engineer for Ocean Ridge Biosciences, Deerfield Beach, FL.
+##### December 2015-February 2018.
+- Developed data analysis pipelines in Perl, Python, and R.
+- Built pipelines to analyze biological data, including long RNA, noncoding-RNA, metagenomic, and xenograft data.
+- Installed hardware and maintained two Sun Grid Engine clusters.
+- Designed MySQL databases to manage large volumes of biological data and facilitate rapid data retrieval.
+- Built public and intranet websites in PHP, Drupal, and Perl CGI.
+- Developed custom web-based LIMS (Laboratory Information Management System) to manage lab operations in PHP, MySQL, JavaScript/Ajax, and HTML5.
 
-Adjunct Professor for Palm Beach State College, Palm Beach Gardens, FL.
+### Adjunct Professor for Palm Beach State College, Palm Beach Gardens, FL.
 February 2015-Present.
 Taught BSC 2435 - Introduction to Bioinformatics.
 Awarded “Rookie of the Year”, February 2016.
