@@ -217,8 +217,11 @@ See [Press](#press) section below for a list of interesting projects I’ve been
 
 
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-114418488-2">
+
 </script>
+
 <script>
+
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
