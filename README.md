@@ -221,7 +221,7 @@ See [Press](#press) section below for a list of interesting projects I’ve been
 </script>
 
 <script>
-
+  
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
