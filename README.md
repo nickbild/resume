@@ -25,8 +25,6 @@ See [Press](#press) section below for a list of interesting projects I’ve been
 
 ### Technical Solutions Engineer II for Sprint Corporation, Maitland, FL.
 ##### June 2018-Present.
-- Software Developer III for Sprint Corporation (via TEKsystems), Maitland, FL.
-- June 2018-November 2018.
 - Architected and developed large enterprise-scale applications in Python and Golang.
 - Extended and debugged legacy applications in Perl.
 - Designed and optimized SQL queries for MariaDB, Oracle, and Vertica databases.
