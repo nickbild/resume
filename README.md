@@ -178,27 +178,24 @@ See [Press](#press) section below for a list of interesting projects I’ve been
 
 # Selected Academic Research Projects
 
-##### ClinicalTrials.gov Data Extraction
-- Arivium
+##### ClinicalTrials.gov Data Extraction (Arivium)
 - Created a means by which to extract all data from the clinicaltrials.gov database programmatically.
 - Designed and built a database structure appropriate for storing a local copy of the data.
 
-##### GEMS Silhouette
-- Arivium
+##### GEMS Silhouette (Arivium)
 - Assisted in the development of a large-scale web application designed to visualize data from millions of clinical trial records.
 - Application has been subsequently licensed to multinational pharmaceutical companies for use in research and development.
 
-##### GeneTiles: Subsequence Density Visualizer
-- Grand Valley State University
+##### GeneTiles: Subsequence Density Visualizer (Grand Valley State University)
 - Developed a novel bioinformatics application to analyze the relative density of repeating residues (amino acids or nucleotides) at locations along the entire biological sequence.
 - Tool useful for visualizing short, non-specific restriction enzyme digest sites.
 
-##### Parallelized Algorithm for Edge Detection in Raster Images of Biological Structures
-- Grand Valley State University
+##### Parallelized Algorithm for Edge Detection in Raster Images of Biological Structures (Grand Valley State University)
 - Developed a high performance, multi-threaded algorithm for detecting biological structures of varying morphologies in image files.
 
 # Honors / Memberships
 
+##### Won NVIDIA Embedded Project of the Month (https://developer.nvidia.com/embedded/community/jetson-projects#shaides).  September 2019.
 ##### Finished 32nd out of 3,325 participants in the 2016 National Security Agency Codebreaker Challenge.  January 2017.
 ##### Palm Beach State College, Rookie of the Year, awarded February 2016.
 ##### Grand Valley State University, Outstanding Graduate Student Award (First in Class), awarded April 2008.
