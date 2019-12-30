@@ -157,7 +157,7 @@ See [Press](#press) section below for a list of interesting projects I’ve been
 - https://www.epemag.com/proj/0120.html
 
 ### I wrote, filmed, and starred in a Holiday advertisement for NVIDIA.
-- https://www.facebook.com/NVIDIAEmbedded/videos/2751673244889195/?__xts__[0]=68.ARCM-M6SWEj7MqK-76T47B-6J9sRdeCmK879vzXyKNcat2_c7JFt8iQa3GEoH5FL-U732_Xo4hvDPpK7q7hPirRuD5xhKiAPe5kikUE5w4wn_uFN_wRTqdFM2EY2c6Lwk8yVRIMKPH1FJoU-9V5LhZ9bh5aXj5_jR3BzjNpYrVZwAZZBHmdtTaq8lYbtaUekRKHCPcU6EGPqgbXNrXLt7J6hqFv3DXRcrf51qrZqlmp19H-Q62fB-ouU-lU1OCJ9IQMRUbe_I_cwfRSGAjaeQmXzZDnZkgssGw-RmBa8zPHP8CipxnJ6UzVM7pzORqXJYMZ9NMCjXGEx-Um1SH_zlIq6smP2S-N8f9wXgQ&__tn__=-R
+- https://www.facebook.com/NVIDIAEmbedded/videos/2751673244889195
 
 # Publications
 
