@@ -4,8 +4,10 @@
 
 ![Me](https://github.com/nickbild/resume/raw/master/media/me.jpeg)
 
+#### About Me
 I'm a professional polyglot software engineer and [maker](https://en.wikipedia.org/wiki/Maker_culture) with over 15 years of experience.  R&D, creativity, and building the next big thing you never knew you wanted are my specialties.
 
+#### Contact Info
 Groveland, FL 34736 (Orlando)  
 nick DOT bild AT gmail DOT com  
 https://github.com/nickbild  
