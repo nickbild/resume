@@ -162,6 +162,10 @@ https://github.com/nickbild
 - https://blog.adafruit.com/2019/04/09/from-the-forums-a-6502-based-retro-computer-build-vintagecomputing-retrocomputing-adafruit-adafruit/
 - http://www.electronics-lab.com/diy-programmable-6502-based-computer-operating-system/
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/nickbild/6502_os/master/img/20181110_210151.jpg">
+</p>
+
 **Virtual Reality Peripheral for Vectron 64 (https://github.com/nickbild/vectron_vr).**  
 - https://hackaday.com/2019/06/23/vr-on-the-6502/
 - https://www.eeweb.com/profile/max-maxfield/articles/omg-a-6502-based-virtual-reality-system
