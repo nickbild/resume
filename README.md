@@ -117,7 +117,7 @@ See [Press](#press) section below for a list of interesting projects I’ve been
 
 # Press
 
-### AI-enabled glasses that act as a UI for the real world (https://github.com/nickbild/shaides).
+**AI-enabled glasses that act as a UI for the real world (https://github.com/nickbild/shaides).**  
 - Won NVIDIA Embedded Project of the Month, September 2019 (https://developer.nvidia.com/embedded/community/jetson-projects#shaides)
 - Runner Up in AARP Living in Motion contest, December 2019 (https://www.hackster.io/contests/aarp)
 - https://tbtech.co/check-out-the-homemade-ai-shades-this-software-engineer/
@@ -125,36 +125,36 @@ See [Press](#press) section below for a list of interesting projects I’ve been
 - https://blog.hackster.io/these-shaides-use-ai-to-detect-what-youre-gesturing-at-cf836cee4851
 - https://nplus1.ru/news/2019/08/19/shaides
 
-### Tipper predicts if a pitch will be in or out of the strike zone in real time (https://github.com/nickbild/tipper).
+**Tipper predicts if a pitch will be in or out of the strike zone in real time (https://github.com/nickbild/tipper).**  
 - https://hackaday.com/2019/12/10/ai-knows-if-the-pitch-is-on-target-before-you-do/
 - https://thenextweb.com/artificial-intelligence/2019/12/04/watch-performance-enhancing-ai-could-change-baseball-forever/
 
-### Smart glasses that selectively filter out excessively bright spots in real-time (https://github.com/nickbild/light_brakes).
+**Smart glasses that selectively filter out excessively bright spots in real-time (https://github.com/nickbild/light_brakes).**  
 - https://hackaday.com/2019/10/22/the-futures-so-bright-i-gotta-wear-lcds/
 
-### Eyeglass-mounted device that can be configured to locate a specific type of object and track it with a laser (https://github.com/nickbild/artemis).
+**Eyeglass-mounted device that can be configured to locate a specific type of object and track it with a laser (https://github.com/nickbild/artemis).**  
 - https://hackaday.com/2019/12/07/upgrade-your-shades-to-find-lost-items/
 
-### Custom-built general purpose, programmable, 6502-based computer and operating system (https://github.com/nickbild/vectron_64).
+**Custom-built general purpose, programmable, 6502-based computer and operating system (https://github.com/nickbild/vectron_64).**  
 - https://hackaday.com/2019/04/19/a-nearly-practical-6502-breadboard-computer/
 - https://blog.adafruit.com/2019/04/09/from-the-forums-a-6502-based-retro-computer-build-vintagecomputing-retrocomputing-adafruit-adafruit/
 - http://www.electronics-lab.com/diy-programmable-6502-based-computer-operating-system/
 
-### Virtual Reality Peripheral for Vectron 64 (https://github.com/nickbild/vectron_vr).
+**Virtual Reality Peripheral for Vectron 64 (https://github.com/nickbild/vectron_vr).**  
 - https://hackaday.com/2019/06/23/vr-on-the-6502/
 - https://www.eeweb.com/profile/max-maxfield/articles/omg-a-6502-based-virtual-reality-system
 - https://blog.adafruit.com/2019/06/19/vectron-vr-6502-virtual-reality-vr-vintagecomputing-graphics-adafruit-fromtheforums-adafruit/
 
-### Play Doom on a giant screen using your body as the controller (https://github.com/nickbild/doom_air).
+**Play Doom on a giant screen using your body as the controller (https://github.com/nickbild/doom_air).**  
 - https://hackaday.com/2019/07/22/gesture-controlled-doom/
 - https://www.eeweb.com/profile/max-maxfield/articles/playing-doom-on-a-giant-screen
 - https://blog.hackster.io/use-ai-on-an-nvidia-jetson-nano-to-play-doom-using-full-body-gestures-e6facd7e57b7
 - https://www.heise.de/make/meldung/Doom-mit-Gesten-steuern-dank-Jetson-Nano-und-Kuenstlicher-Intelligenz-4478114.html
 
-### I was featured in the January 2020 issue of Practical Electronics magazine.
+**I was featured in the January 2020 issue of Practical Electronics magazine.**  
 - https://www.epemag.com/proj/0120.html
 
-### I wrote, filmed, and starred in a Holiday advertisement for NVIDIA.
+**I wrote, filmed, and starred in a Holiday advertisement for NVIDIA.**  
 - https://www.facebook.com/NVIDIAEmbedded/videos/2751673244889195
 
 # Publications
