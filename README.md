@@ -182,6 +182,11 @@ https://github.com/nickbild
 
 **I wrote, filmed, and starred in a Holiday advertisement for NVIDIA.**  
 - https://www.facebook.com/NVIDIAEmbedded/videos/2751673244889195
+- Received over 50K video views.
+
+<p align="center">
+<img src="https://github.com/nickbild/resume/blob/master/media/shaidesmas.gif">
+</p>
 
 # Publications
 
