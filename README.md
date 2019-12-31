@@ -165,51 +165,51 @@ See [Press](#press) section below for a list of interesting projects I’ve been
 
 # Presentations
 
-##### Bild, N.  2010, “Bio-Info-What-Now? IT Beyond TPS Reports”, Management of Information Systems, Allendale, MI, Grand Valley State University.
+**Bild, N.  2010, “Bio-Info-What-Now? IT Beyond TPS Reports”, Management of Information Systems, Allendale, MI, Grand Valley State University.**  
 
-##### Bild, N.  2010, “Bio-Info-What-Now? IT Beyond TPS Reports”, Internship Preparation, Allendale, MI, Grand Valley State University.
+**Bild, N.  2010, “Bio-Info-What-Now? IT Beyond TPS Reports”, Internship Preparation, Allendale, MI, Grand Valley State University.**  
 
-##### Bild, N. 2009, "Re-analysis using Cistrack", modENCODE Analysis Working Group, Cambridge, MA, Massachusetts Institute of Technology.
+**Bild, N. 2009, "Re-analysis using Cistrack", modENCODE Analysis Working Group, Cambridge, MA, Massachusetts Institute of Technology.**  
 
 # Conference Papers
 
-##### Elizabeth Bartom, Casey Brown, Nick Bild, Robert Grossman, Analysis pipelines for Next Generation Sequencing data.  Feb 25, 2011, Chicago, IL, United Stated, Chicago Center for Systems Biology.
+**Elizabeth Bartom, Casey Brown, Nick Bild, Robert Grossman, Analysis pipelines for Next Generation Sequencing data.  Feb 25, 2011, Chicago, IL, United Stated, Chicago Center for Systems Biology.**  
 
-##### C. Frankenberger, S. Basu, N. Bild, A. Potti, M. Raponi, Y. Wang, D. G. Beer, J. Coon, P. Bonomi, J. A. Borgia, Expression profiles associated with disease progression in non-small cell lung cancer. Jun 4-8, 2010, Chicago, IL, United States. American Society of Clinical Oncology.
+**C. Frankenberger, S. Basu, N. Bild, A. Potti, M. Raponi, Y. Wang, D. G. Beer, J. Coon, P. Bonomi, J. A. Borgia, Expression profiles associated with disease progression in non-small cell lung cancer. Jun 4-8, 2010, Chicago, IL, United States. American Society of Clinical Oncology.**  
 
 # Selected Academic Research Projects
 
-##### ClinicalTrials.gov Data Extraction (Arivium)
+**ClinicalTrials.gov Data Extraction (Arivium)**  
 - Created a means by which to extract all data from the clinicaltrials.gov database programmatically.
 - Designed and built a database structure appropriate for storing a local copy of the data.
 
-##### GEMS Silhouette (Arivium)
+**GEMS Silhouette (Arivium)**  
 - Assisted in the development of a large-scale web application designed to visualize data from millions of clinical trial records.
 - Application has been subsequently licensed to multinational pharmaceutical companies for use in research and development.
 
-##### GeneTiles: Subsequence Density Visualizer (Grand Valley State University)
+**GeneTiles: Subsequence Density Visualizer (Grand Valley State University)**  
 - Developed a novel bioinformatics application to analyze the relative density of repeating residues (amino acids or nucleotides) at locations along the entire biological sequence.
 - Tool useful for visualizing short, non-specific restriction enzyme digest sites.
 
-##### Parallelized Algorithm for Edge Detection in Raster Images of Biological Structures (Grand Valley State University)
+**Parallelized Algorithm for Edge Detection in Raster Images of Biological Structures (Grand Valley State University)**  
 - Developed a high performance, multi-threaded algorithm for detecting biological structures of varying morphologies in image files.
 
 # Honors / Memberships
 
-##### Won NVIDIA Embedded Project of the Month (https://developer.nvidia.com/embedded/community/jetson-projects#shaides).  September 2019.
-##### Finished 32nd out of 3,325 participants in the 2016 National Security Agency Codebreaker Challenge.  January 2017.
-##### Palm Beach State College, Rookie of the Year, awarded February 2016.
-##### Grand Valley State University, Outstanding Graduate Student Award (First in Class), awarded April 2008.
-##### United States Parachute Association, licensed skydiver (A-52296), awarded September 2006.
+**Won NVIDIA Embedded Project of the Month (https://developer.nvidia.com/embedded/community/jetson-projects#shaides).  September 2019.**  
+**Finished 32nd out of 3,325 participants in the 2016 National Security Agency Codebreaker Challenge.  January 2017.**  
+**Palm Beach State College, Rookie of the Year, awarded February 2016.**  
+**Grand Valley State University, Outstanding Graduate Student Award (First in Class), awarded April 2008.**  
+**United States Parachute Association, licensed skydiver (A-52296), awarded September 2006.**  
 
 # Professional Certifications
 
-##### Certificate of Study in Christian Apologetics.  Biola University, November 2014.
-##### EpicCare Inpatient Procedure Orders Certification (Epic 2010), November 2011.
-##### EpicCare Inpatient Decision Support Certification (Epic 2010), November 2011.
+**Certificate of Study in Christian Apologetics.  Biola University, November 2014.**  
+**EpicCare Inpatient Procedure Orders Certification (Epic 2010), November 2011.**  
+**EpicCare Inpatient Decision Support Certification (Epic 2010), November 2011.**  
 
 # Volunteer Work
 
-##### Food Packager, Kids Against Hunger.  October 2012.
-##### MediaShout Technician, Community Christian Church.  Tamarac, FL.  October 2012-June 2014.
-##### ProPresenter Technician, The Grove Church, Clermont, FL.  May 2017-Present.
+**ProPresenter Technician, The Grove Church, Clermont, FL.  May 2017-Present.**  
+**MediaShout Technician, Community Christian Church.  Tamarac, FL.  October 2012-June 2014.**  
+**Food Packager, Kids Against Hunger.  October 2012.**  
