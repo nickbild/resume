@@ -145,6 +145,10 @@ https://github.com/nickbild
 **Eyeglass-mounted device that can be configured to locate a specific type of object and track it with a laser (https://github.com/nickbild/artemis).**  
 - https://hackaday.com/2019/12/07/upgrade-your-shades-to-find-lost-items/
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/nickbild/artemis/master/img/video.gif">
+</p>
+
 **Custom-built general purpose, programmable, 6502-based computer and operating system (https://github.com/nickbild/vectron_64).**  
 - https://hackaday.com/2019/04/19/a-nearly-practical-6502-breadboard-computer/
 - https://blog.adafruit.com/2019/04/09/from-the-forums-a-6502-based-retro-computer-build-vintagecomputing-retrocomputing-adafruit-adafruit/
