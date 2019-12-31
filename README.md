@@ -10,14 +10,14 @@ See [Press](#press) section below for a list of interesting projects I’ve been
 
 # Education
 
-### Master of Science - Medical and Bioinformatics, December, 2007.
-- Grand Valley State University, Allendale, MI.
-  - GPA: 3.97 / 4.0
-  - Outstanding Graduate Student Award (First in Class), awarded April 2008.
+**Master of Science - Medical and Bioinformatics, December, 2007.**  
+**Grand Valley State University, Allendale, MI.**  
+- GPA: 3.97 / 4.0
+- Outstanding Graduate Student Award (First in Class), awarded April 2008.
 
-### Bachelor of Science - Information Systems, August, 2004.
-- Grand Valley State University, Allendale, MI.
-  - Dean's List - multiple semesters.
+**Bachelor of Science - Information Systems, August, 2004.**  
+**Grand Valley State University, Allendale, MI.**  
+- Dean's List - multiple semesters.
 
 # Relevant Experience
 
