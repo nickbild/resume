@@ -146,6 +146,10 @@ https://github.com/nickbild
 **Smart glasses that selectively filter out excessively bright spots in real-time (https://github.com/nickbild/light_brakes).**  
 - https://hackaday.com/2019/10/22/the-futures-so-bright-i-gotta-wear-lcds/
 
+<p align="center">
+<img src="https://github.com/nickbild/resume/blob/master/media/light_brakes.gif">
+</p>
+
 **Eyeglass-mounted device that can be configured to locate a specific type of object and track it with a laser (https://github.com/nickbild/artemis).**  
 - https://hackaday.com/2019/12/07/upgrade-your-shades-to-find-lost-items/
 
