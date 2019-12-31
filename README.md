@@ -159,6 +159,10 @@ https://github.com/nickbild
 - https://www.eeweb.com/profile/max-maxfield/articles/omg-a-6502-based-virtual-reality-system
 - https://blog.adafruit.com/2019/06/19/vectron-vr-6502-virtual-reality-vr-vintagecomputing-graphics-adafruit-fromtheforums-adafruit/
 
+<p align="center">
+<img src="https://github.com/nickbild/resume/blob/master/media/asteroids_vr.gif">
+</p>
+
 **Play Doom on a giant screen using your body as the controller (https://github.com/nickbild/doom_air).**  
 - https://hackaday.com/2019/07/22/gesture-controlled-doom/
 - https://www.eeweb.com/profile/max-maxfield/articles/playing-doom-on-a-giant-screen
