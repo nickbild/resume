@@ -197,19 +197,27 @@ See [Press](#press) section below for a list of interesting projects I’ve been
 # Honors / Memberships
 
 **Won NVIDIA Embedded Project of the Month (https://developer.nvidia.com/embedded/community/jetson-projects#shaides).  September 2019.**  
+
 **Finished 32nd out of 3,325 participants in the 2016 National Security Agency Codebreaker Challenge.  January 2017.**  
+
 **Palm Beach State College, Rookie of the Year, awarded February 2016.**  
+
 **Grand Valley State University, Outstanding Graduate Student Award (First in Class), awarded April 2008.**  
+
 **United States Parachute Association, licensed skydiver (A-52296), awarded September 2006.**  
 
 # Professional Certifications
 
 **Certificate of Study in Christian Apologetics.  Biola University, November 2014.**  
+
 **EpicCare Inpatient Procedure Orders Certification (Epic 2010), November 2011.**  
+
 **EpicCare Inpatient Decision Support Certification (Epic 2010), November 2011.**  
 
 # Volunteer Work
 
 **ProPresenter Technician, The Grove Church, Clermont, FL.  May 2017-Present.**  
+
 **MediaShout Technician, Community Christian Church.  Tamarac, FL.  October 2012-June 2014.**  
+
 **Food Packager, Kids Against Hunger.  October 2012.**  
