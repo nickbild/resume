@@ -165,6 +165,10 @@ https://github.com/nickbild
 - https://blog.hackster.io/use-ai-on-an-nvidia-jetson-nano-to-play-doom-using-full-body-gestures-e6facd7e57b7
 - https://www.heise.de/make/meldung/Doom-mit-Gesten-steuern-dank-Jetson-Nano-und-Kuenstlicher-Intelligenz-4478114.html
 
+<p align="center">
+<img src="https://github.com/nickbild/resume/blob/master/media/doom_air.gif">
+</p>
+
 **I was featured in the January 2020 issue of Practical Electronics magazine.**  
 - https://www.epemag.com/proj/0120.html
 
