@@ -44,7 +44,7 @@ See [Press](#press) section below for a list of interesting projects I’ve been
 - Awarded “Rookie of the Year”, February 2016.
 
 ### Bioinformatics Analyst III for The Scripps Research Institute, Jupiter, FL.
-**June 2014-December 2015.**  
+##### June 2014-December 2015.
 - Developed standardized pipelines to analyze various data types, including RNA-seq, sRNA-seq, and ChIP-seq (Perl, Python, shell scripting).
 - Built automated framework to transfer data from instruments (Illumina, SOLiD, Ion, etc.) to a cloud computing environment (Linux, Torque) and begin data analysis without human intervention.
 - Created web-based application to track biological samples and inform automated pipelines of proper parameters and analysis methods (PHP, MySQL).
