@@ -159,9 +159,9 @@ See [Press](#press) section below for a list of interesting projects I’ve been
 
 # Publications
 
-##### Gustavo J. Martinez, Joyce K. Hu, Renata M. Pereira, Jordan S. Crampton, Susan Togher, Nicholas Bild, Shane Crotty, and Anjana Rao. (2016). NFAT Transcription Factors Promote the Generation of Follicular Helper T Cells in Response to Acute Viral Infection. The Journal of Immunology, 196 (4).
+**Gustavo J. Martinez, Joyce K. Hu, Renata M. Pereira, Jordan S. Crampton, Susan Togher, Nicholas Bild, Shane Crotty, and Anjana Rao. (2016). NFAT Transcription Factors Promote the Generation of Follicular Helper T Cells in Response to Acute Viral Infection. The Journal of Immunology, 196 (4).**  
 
-##### Nègre N, Brown CD, Ma L, Bristow CA, Miller SW, Wagner U, Kheradpour P, Eaton ML, Loriaux P, Sealfon R, Li R, Ishii H, Spokony RF, Chen J, Hwang L, Chen C, Auburn RP, Davis MP, Domanus M, Shah PK, Morrison CA, Zieba J, Suchy S, Senderowicz L, Victorsen A, Bild NA, Grundstad AJ, Hanley D, MacAlpine DM, Mannervik M, Venken K, Bellen H, White R, Gerstein M, Russell S, Grossman RL, Ren B, Posakony JW, Kellis M, White KP. (2011). A Cis-Regulatory Map of the Drosophila Genome. Nature, 471, 527-531.
+**Nègre N, Brown CD, Ma L, Bristow CA, Miller SW, Wagner U, Kheradpour P, Eaton ML, Loriaux P, Sealfon R, Li R, Ishii H, Spokony RF, Chen J, Hwang L, Chen C, Auburn RP, Davis MP, Domanus M, Shah PK, Morrison CA, Zieba J, Suchy S, Senderowicz L, Victorsen A, Bild NA, Grundstad AJ, Hanley D, MacAlpine DM, Mannervik M, Venken K, Bellen H, White R, Gerstein M, Russell S, Grossman RL, Ren B, Posakony JW, Kellis M, White KP. (2011). A Cis-Regulatory Map of the Drosophila Genome. Nature, 471, 527-531.**  
 
 # Presentations
 
