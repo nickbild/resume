@@ -2,6 +2,8 @@
 
 # Nick A. Bild, M.S.
 
+![Me](https://github.com/nickbild/resume/raw/master/media/me.jpeg)
+
 Groveland, FL 34736 (Orlando)  
 nick DOT bild AT gmail DOT com  
 https://github.com/nickbild  
