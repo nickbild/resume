@@ -179,6 +179,11 @@ https://github.com/nickbild
 
 **I was featured in the January 2020 issue of Practical Electronics magazine.**  
 - https://www.epemag.com/proj/0120.html
+- Three page feature about me and several of my projects.
+
+<p align="center">
+<img src="https://github.com/nickbild/resume/blob/master/media/practical_electronics.png">
+</p>
 
 **I wrote, filmed, and starred in a Holiday advertisement for NVIDIA.**  
 - https://www.facebook.com/NVIDIAEmbedded/videos/2751673244889195
