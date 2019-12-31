@@ -128,7 +128,7 @@ https://github.com/nickbild
 - https://nplus1.ru/news/2019/08/19/shaides
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/nickbild/tipper/master/media/shaides.gif">
+<img src="https://github.com/nickbild/resume/blob/master/media/shaides.gif">
 </p>
 
 **Tipper predicts if a pitch will be in or out of the strike zone in real time (https://github.com/nickbild/tipper).**  
