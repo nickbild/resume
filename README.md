@@ -242,6 +242,8 @@ https://github.com/nickbild
 
 **Won NVIDIA Embedded Project of the Month (https://developer.nvidia.com/embedded/community/jetson-projects#shaides).  September 2019.**  
 
+**Named “Runner Up” in AARP Living in Motion contest for my project ShAIdes (https://www.hackster.io/contests/aarp).  December 2019.** 
+
 **Finished 32nd out of 3,325 participants in the 2016 National Security Agency Codebreaker Challenge.  January 2017.**  
 
 **Palm Beach State College, Rookie of the Year, awarded February 2016.**  
