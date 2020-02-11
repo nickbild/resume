@@ -150,6 +150,13 @@ https://github.com/nickbild
 <img src="https://github.com/nickbild/resume/blob/master/media/light_brakes.gif">
 </p>
 
+**Newrons - Smart glasses with a gentle memory assist. (https://github.com/nickbild/newrons).**  
+- https://blog.arduino.cc/2020/01/28/give-your-memory-a-boost-with-newrons/
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/nickbild/newrons/master/media/teaser.gif">
+</p>
+
 **Eyeglass-mounted device that can be configured to locate a specific type of object and track it with a laser (https://github.com/nickbild/artemis).**  
 - https://hackaday.com/2019/12/07/upgrade-your-shades-to-find-lost-items/
 
@@ -242,7 +249,7 @@ https://github.com/nickbild
 
 **Won NVIDIA Embedded Project of the Month (https://developer.nvidia.com/embedded/community/jetson-projects#shaides).  September 2019.**  
 
-**Named “Runner Up” in AARP Living in Motion contest for my project ShAIdes (https://www.hackster.io/contests/aarp).  December 2019.** 
+**Named “Runner Up” in AARP Living in Motion contest for my project ShAIdes (https://www.hackster.io/contests/aarp).  December 2019.**
 
 **Finished 32nd out of 3,325 participants in the 2016 National Security Agency Codebreaker Challenge.  January 2017.**  
 
