@@ -208,6 +208,12 @@ https://github.com/nickbild
 <img src="https://github.com/nickbild/resume/blob/master/media/shaidesmas.gif">
 </p>
 
+**I was featured in the Screaming Circuits 2020 Engineers Desk Wall Calendar.**  
+
+<p align="center">
+<img src="https://github.com/nickbild/resume/blob/master/media/calendar.jpeg">
+</p>
+
 # Publications
 
 **Gustavo J. Martinez, Joyce K. Hu, Renata M. Pereira, Jordan S. Crampton, Susan Togher, Nicholas Bild, Shane Crotty, and Anjana Rao. (2016). NFAT Transcription Factors Promote the Generation of Follicular Helper T Cells in Response to Acute Viral Infection. The Journal of Immunology, 196 (4).**  
