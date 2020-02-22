@@ -27,7 +27,7 @@ https://github.com/nickbild
 
 # Relevant Experience
 
-**Technical Solutions Engineer II for Sprint Corporation, Maitland, FL.**  
+**Technical Solutions Engineer III for Sprint Corporation, Maitland, FL.**  
 **June 2018-Present.**  
 - Architected and developed large enterprise-scale applications in Python and Golang.
 - Extended and debugged legacy applications in Perl.
