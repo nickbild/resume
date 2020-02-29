@@ -138,6 +138,7 @@ https://github.com/nickbild
 **Tipper predicts if a pitch will be in or out of the strike zone in real time (https://github.com/nickbild/tipper).**  
 - https://hackaday.com/2019/12/10/ai-knows-if-the-pitch-is-on-target-before-you-do/
 - https://thenextweb.com/artificial-intelligence/2019/12/04/watch-performance-enhancing-ai-could-change-baseball-forever/
+- https://developer.nvidia.com/embedded/community/jetson-projects#tipper
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/nickbild/tipper/master/media/video.gif">
