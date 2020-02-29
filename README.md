@@ -157,6 +157,13 @@ https://github.com/nickbild
 <img src="https://raw.githubusercontent.com/nickbild/newrons/master/media/teaser.gif">
 </p>
 
+**Freedom Shield was developed to protect the rights of individuals to peaceably assemble and petition their government (https://github.com/nickbild/freedom_shield).**
+- https://hackaday.com/2020/02/28/using-ir-leds-to-hide-in-plain-sight/
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/nickbild/freedom_shield/master/media/freedom_shield.gif">
+</p>
+
 **Eyeglass-mounted device that can be configured to locate a specific type of object and track it with a laser (https://github.com/nickbild/artemis).**  
 - https://hackaday.com/2019/12/07/upgrade-your-shades-to-find-lost-items/
 
