@@ -153,6 +153,7 @@ https://github.com/nickbild
 
 **Newrons - Smart glasses with a gentle memory assist. (https://github.com/nickbild/newrons).**  
 - https://blog.arduino.cc/2020/01/28/give-your-memory-a-boost-with-newrons/
+- https://hackaday.com/2020/03/01/assistive-specs-help-jog-your-memory/
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/nickbild/newrons/master/media/teaser.gif">
