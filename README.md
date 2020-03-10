@@ -166,6 +166,15 @@ https://github.com/nickbild
 <img src="https://raw.githubusercontent.com/nickbild/freedom_shield/master/media/freedom_shield.gif">
 </p>
 
+**Sentinel was designed to provide a subtle reminder not to touch your face. (https://github.com/nickbild/sentinel).**
+- https://hackaday.com/2020/03/09/a-reminder-not-to-touch-your-face/
+- https://blog.arduino.cc/2020/03/10/this-pair-of-arduino-glasses-stops-you-from-touching-your-face/
+- https://blog.adafruit.com/2020/03/10/this-pair-of-arduino-glasses-aims-to-stop-you-from-touching-your-face/
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/nickbild/sentinel/master/media/teaser.gif">
+</p>
+
 **Eyeglass-mounted device that can be configured to locate a specific type of object and track it with a laser (https://github.com/nickbild/artemis).**  
 - https://hackaday.com/2019/12/07/upgrade-your-shades-to-find-lost-items/
 
