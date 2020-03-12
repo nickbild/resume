@@ -170,6 +170,9 @@ https://github.com/nickbild
 - https://hackaday.com/2020/03/09/a-reminder-not-to-touch-your-face/
 - https://blog.arduino.cc/2020/03/10/this-pair-of-arduino-glasses-stops-you-from-touching-your-face/
 - https://blog.adafruit.com/2020/03/10/this-pair-of-arduino-glasses-aims-to-stop-you-from-touching-your-face/
+- https://www.electromaker.io/blog/article/coronavirus-inspires-maker-tech-innovation
+- https://www.hackster.io/videos/589
+- https://m.habr.com/ru/news/t/491862/
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/nickbild/sentinel/master/media/teaser.gif">
