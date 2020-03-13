@@ -235,6 +235,13 @@ https://github.com/nickbild
 <img src="https://github.com/nickbild/resume/blob/master/media/calendar.jpeg">
 </p>
 
+**I won "Runner Up" in NXP Semiconductor's Crossover Code Challenge**
+- https://www.hackster.io/contests/nxpcrossover
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/nickbild/nxp_led_matrix_driver/master/media/matrix.gif">
+</p>
+
 # Publications
 
 **Gustavo J. Martinez, Joyce K. Hu, Renata M. Pereira, Jordan S. Crampton, Susan Togher, Nicholas Bild, Shane Crotty, and Anjana Rao. (2016). NFAT Transcription Factors Promote the Generation of Follicular Helper T Cells in Response to Acute Viral Infection. The Journal of Immunology, 196 (4).**  
