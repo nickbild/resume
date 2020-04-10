@@ -178,6 +178,14 @@ https://github.com/nickbild
 <img src="https://raw.githubusercontent.com/nickbild/sentinel/master/media/teaser.gif">
 </p>
 
+**Deep Clean flags potentially contaminated surfaces for deep cleaning to help prevent the spread of contagious disease. (https://github.com/nickbild/deepclean).**
+- https://hackaday.com/2020/04/07/machine-vision-keeps-track-of-grubby-hands/https://hackaday.com/2020/04/07/machine-vision-keeps-track-of-grubby-hands/
+- https://blog.adafruit.com/2020/04/03/deep-clean-monitoring-system-raspberry_pi-piday-raspberrypi/
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/nickbild/deepclean/master/media/teaser.gif">
+</p>
+
 **Eyeglass-mounted device that can be configured to locate a specific type of object and track it with a laser (https://github.com/nickbild/artemis).**  
 - https://hackaday.com/2019/12/07/upgrade-your-shades-to-find-lost-items/
 
