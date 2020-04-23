@@ -202,6 +202,13 @@ https://github.com/nickbild
 <img src="https://raw.githubusercontent.com/nickbild/6502_os/master/img/20181110_210151.jpg">
 </p>
 
+**Train machines like it's 1979! Play Atari 2600 games with gestures (https://github.com/nickbild/vectron_ai).**  
+- https://hackaday.com/2020/04/22/machine-learning-algorithm-runs-on-a-breadboard-6502/
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/nickbild/vectron_ai/master/media/teaser.gif">
+</p>
+
 **Virtual Reality Peripheral for Vectron 64 (https://github.com/nickbild/vectron_vr).**  
 - https://hackaday.com/2019/06/23/vr-on-the-6502/
 - https://www.eeweb.com/profile/max-maxfield/articles/omg-a-6502-based-virtual-reality-system
