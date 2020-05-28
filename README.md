@@ -301,6 +301,8 @@ https://github.com/nickbild
 
 **Named “Runner Up” in AARP Living in Motion contest for my project ShAIdes (https://www.hackster.io/contests/aarp).  December 2019.**
 
+**Named “Runner Up” in AARP Hacking Menopause contest for my project Newrons (https://www.hackster.io/contests/aarpmenopause).  May 2020.**
+
 **Finished 32nd out of 3,325 participants in the 2016 National Security Agency Codebreaker Challenge.  January 2017.**  
 
 **Palm Beach State College, Rookie of the Year, awarded February 2016.**  
