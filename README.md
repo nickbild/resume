@@ -152,6 +152,7 @@ https://github.com/nickbild
 </p>
 
 **Newrons - Smart glasses with a gentle memory assist. (https://github.com/nickbild/newrons).**  
+- Runner Up in AARP Hacking Menopause contest, May 2020 (https://www.hackster.io/contests/aarpmenopause)
 - https://blog.arduino.cc/2020/01/28/give-your-memory-a-boost-with-newrons/
 - https://hackaday.com/2020/03/01/assistive-specs-help-jog-your-memory/
 
