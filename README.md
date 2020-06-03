@@ -35,6 +35,10 @@ https://github.com/nickbild
 - Developer Dockerized applications for smooth deployment and shifting of resources.
 - Worked on a team of ~40 software engineers in a GitLab CI/CD environment.
 
+**Freelance Technical Writer**  
+**June 2020-Present.**  
+- https://www.hackster.io/news
+
 **Staff Software Engineer for Ocean Ridge Biosciences, Deerfield Beach, FL.**  
 **December 2015-February 2018.**  
 - Developed data analysis pipelines in Perl, Python, and R.
