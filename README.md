@@ -191,6 +191,13 @@ https://github.com/nickbild
 <img src="https://raw.githubusercontent.com/nickbild/deepclean/master/media/teaser.gif">
 </p>
 
+**Safe Meeting keeps an eye on you during your video conferences, and if it sees business-inappropriate attire, the video is immediately muted. (https://github.com/nickbild/safe_meeting).**
+- https://hackaday.com/2020/06/03/machine-learning-takes-the-embarrassment-out-of-videoconference-wardrobe-malfunctions/
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/nickbild/safe_meeting/master/media/video.gif">
+</p>
+
 **Eyeglass-mounted device that can be configured to locate a specific type of object and track it with a laser (https://github.com/nickbild/artemis).**  
 - https://hackaday.com/2019/12/07/upgrade-your-shades-to-find-lost-items/
 
