@@ -221,6 +221,13 @@ https://github.com/nickbild
 <img src="https://raw.githubusercontent.com/nickbild/vectron_ai/master/media/teaser.gif">
 </p>
 
+**Vectron VGA generates a 640x480@60Hz 3-bit color VGA signal and is designed to interface with the Vectron 64 6502-CPU based breadboard computer (https://github.com/nickbild/vectron_vga).**  
+- https://www.hackster.io/nickbild/vectron-vga-c26e73
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/nickbild/vectron_vga/master/media/vectron_vga.gif">
+</p>
+
 **Virtual Reality Peripheral for Vectron 64 (https://github.com/nickbild/vectron_vr).**  
 - https://hackaday.com/2019/06/23/vr-on-the-6502/
 - https://www.eeweb.com/profile/max-maxfield/articles/omg-a-6502-based-virtual-reality-system
