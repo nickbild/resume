@@ -186,6 +186,7 @@ https://github.com/nickbild
 **Deep Clean flags potentially contaminated surfaces for deep cleaning to help prevent the spread of contagious disease. (https://github.com/nickbild/deepclean).**
 - https://hackaday.com/2020/04/07/machine-vision-keeps-track-of-grubby-hands/
 - https://blog.adafruit.com/2020/04/03/deep-clean-monitoring-system-raspberry_pi-piday-raspberrypi/
+- https://www.vision-systems.com/home/article/14174374/stereo-camera-system-flags-potentially-contaminated-surfaces
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/nickbild/deepclean/master/media/teaser.gif">
