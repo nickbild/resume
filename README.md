@@ -189,7 +189,7 @@ https://github.com/nickbild
 - https://www.vision-systems.com/home/article/14174374/stereo-camera-system-flags-potentially-contaminated-surfaces
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/nickbild/deepclean/master/media/vision-systems-design_deep-clean_sm.png">
+<img src="https://raw.githubusercontent.com/nickbild/resume/master/media/vision-systems-design_deep-clean_sm.png">
 </p>
 
 <p align="center">
