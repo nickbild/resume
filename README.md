@@ -268,6 +268,14 @@ https://github.com/nickbild
 <img src="https://github.com/nickbild/resume/blob/master/media/shaidesmas.gif">
 </p>
 
+**I hosted a Hack Chat titled "Ideas to Prototypes" for [Hackaday.com](https://hackaday.com/).**
+- https://hackaday.com/2020/07/27/ideas-to-prototypes-hack-chat-with-nick-bild/
+- https://hackaday.io/event/171148-ideas-to-prototypes-hack-chat-with-nick-bild
+
+<p align="center">
+<img src="https://github.com/nickbild/resume/blob/master/media/hack_chat_poster.jpg">
+</p>
+
 **I was featured in the Screaming Circuits 2020 Engineers Desk Wall Calendar.**  
 
 <p align="center">
