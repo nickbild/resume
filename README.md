@@ -27,13 +27,13 @@ https://github.com/nickbild
 
 # Relevant Experience
 
-**Senior Software Engineer ​for T-Mobile US (acquired Sprint), Maitland, FL.**
-**August 2020-Present.**
-**Technical Solutions Engineer III ​for Sprint Corporation, Maitland, FL.**
-**February 2020-August 2020.**
-**Technical Solutions Engineer II ​for Sprint Corporation, Maitland, FL.**
-**November 2018-February 2020.**
-**Software Developer III​ for Sprint Corporation (via TEKsystems), Maitland, FL.**
+**Senior Software Engineer ​for T-Mobile US (acquired Sprint), Maitland, FL.**  
+**August 2020-Present.**  
+**Technical Solutions Engineer III ​for Sprint Corporation, Maitland, FL.**  
+**February 2020-August 2020.**  
+**Technical Solutions Engineer II ​for Sprint Corporation, Maitland, FL.**  
+**November 2018-February 2020.**  
+**Software Developer III​ for Sprint Corporation (via TEKsystems), Maitland, FL.**  
 **June 2018-November 2018.**
 - Architected and developed large enterprise-scale applications in Python and Golang.
 - Extended and debugged legacy applications in Perl.
