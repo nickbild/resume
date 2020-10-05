@@ -204,6 +204,7 @@ https://github.com/nickbild
 
 **Safe Meeting keeps an eye on you during your video conferences, and if it sees business-inappropriate attire, the video is immediately muted. (https://github.com/nickbild/safe_meeting).**
 - https://hackaday.com/2020/06/03/machine-learning-takes-the-embarrassment-out-of-videoconference-wardrobe-malfunctions/
+- https://developer.nvidia.com/embedded/community/jetson-projects#safe_meeting
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/nickbild/safe_meeting/master/media/video.gif">
@@ -264,6 +265,13 @@ https://github.com/nickbild
 
 <p align="center">
 <img src="https://github.com/nickbild/resume/blob/master/media/practical_electronics.png">
+</p>
+
+**My projects ShAIdes and Artemis were featured in NVIDIA CEO Jensen Huang’s GTC 2020 keynote address.**
+- https://www.youtube.com/watch?v=ncAW5Bdq8BE
+
+<p align="center">
+<img src="https://github.com/nickbild/resume/blob/master/media/jensen_keynote_oct_2020_crop.png">
 </p>
 
 **I wrote, filmed, and starred in a Holiday advertisement for NVIDIA.**  
