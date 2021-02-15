@@ -145,6 +145,20 @@ https://github.com/nickbild
 <img src="https://github.com/nickbild/resume/blob/master/media/shaides.gif">
 </p>
 
+**BrowZen correlates your emotional states with the web sites you visit to give you actionable insights about how you spend your time browsing the web (https://github.com/nickbild/browzen).**
+- https://hackaday.com/2021/02/14/machine-learning-helps-you-track-your-internet-misery-index/
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/nickbild/browzen/main/media/browzen_demo_short.gif">
+</p>
+
+**Speaker Snitch flashes a light when your smart speaker is sending data to the cloud (https://github.com/nickbild/speaker_snitch).**
+- https://hackaday.com/2020/12/09/speaker-snitch-tattles-on-privacy-leaks/
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/nickbild/speaker_snitch/main/media/snitch_near_google_home.png">
+</p>
+
 **Tipper predicts if a pitch will be in or out of the strike zone in real time (https://github.com/nickbild/tipper).**  
 - https://hackaday.com/2019/12/10/ai-knows-if-the-pitch-is-on-target-before-you-do/
 - https://thenextweb.com/artificial-intelligence/2019/12/04/watch-performance-enhancing-ai-could-change-baseball-forever/
@@ -152,6 +166,13 @@ https://github.com/nickbild
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/nickbild/tipper/master/media/video.gif">
+</p>
+
+**Memory Pill passively records the last time a medication bottle was opened to prevent accidental over- and underdosing of medications (https://github.com/nickbild/memory_pill).**
+- https://www.hackster.io/nickbild/memory-pill-9f6b2e
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/nickbild/memory_pill/master/media/memory_pill.gif">
 </p>
 
 **Smart glasses that selectively filter out excessively bright spots in real-time (https://github.com/nickbild/light_brakes).**  
@@ -226,11 +247,25 @@ https://github.com/nickbild
 <img src="https://raw.githubusercontent.com/nickbild/6502_os/master/img/20181110_210151.jpg">
 </p>
 
+**The Vectron 65 is a 6502 CPU-based breadboard computer. It supports VGA output, keyboard input, boots into a BASIC interpreter, and has lots of GPIOs (https://github.com/nickbild/vectron_65).**
+- https://hackaday.com/2020/11/16/vectron-adds-basic-and-christmas-tree-control/
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/nickbild/vectron_65/main/media/light_tree.gif">
+</p>
+
 **Train machines like it's 1979! Play Atari 2600 games with gestures (https://github.com/nickbild/vectron_ai).**  
 - https://hackaday.com/2020/04/22/machine-learning-algorithm-runs-on-a-breadboard-6502/
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/nickbild/vectron_ai/master/media/teaser.gif">
+</p>
+
+**Vectron Handheld is a retro handheld gaming console based on the 6502 CPU (https://github.com/nickbild/vectron_handheld).**
+- https://hackaday.com/2020/10/15/handheld-pong-on-a-6502/
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/nickbild/vectron_handheld/master/media/vectron_handheld.gif">
 </p>
 
 **Vectron VGA generates a 640x480@60Hz 3-bit color VGA signal and is designed to interface with the Vectron 64 6502-CPU based breadboard computer (https://github.com/nickbild/vectron_vga).**  
@@ -258,6 +293,9 @@ https://github.com/nickbild
 <p align="center">
 <img src="https://github.com/nickbild/resume/blob/master/media/doom_air.gif">
 </p>
+
+**MiniVGA - Easily generate a VGA signal for your Arduino projects with an FPGA (https://github.com/nickbild/fpga_vga).**
+- https://www.hackster.io/nickbild/minivga-216797
 
 **I was featured in the January 2020 issue of Practical Electronics magazine.**  
 - https://www.epemag.com/proj/0120.html
@@ -295,6 +333,9 @@ https://github.com/nickbild
 <p align="center">
 <img src="https://github.com/nickbild/resume/blob/master/media/calendar.jpeg">
 </p>
+
+**I won the 2020 Spectacular Sensors Smackdown at Sensors Innovation Week Expo (Nov. 2020)**
+- https://www.clivemaxfield.com/tension-mounts-as-sensor-smackdown-looms/
 
 **I won "Runner Up" in NXP Semiconductor's Crossover Code Challenge**
 - https://www.hackster.io/contests/nxpcrossover
@@ -347,6 +388,8 @@ https://github.com/nickbild
 **Named “Runner Up” in AARP Living in Motion contest for my project ShAIdes (https://www.hackster.io/contests/aarp).  December 2019.**
 
 **Named “Runner Up” in AARP Hacking Menopause contest for my project Newrons (https://www.hackster.io/contests/aarpmenopause).  May 2020.**
+
+**I won the 2020 Spectacular Sensors Smackdown at Sensors Innovation Week Expo.  November 2020.**
 
 **Finished 32nd out of 3,325 participants in the 2016 National Security Agency Codebreaker Challenge.  January 2017.**  
 
