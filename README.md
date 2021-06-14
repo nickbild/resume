@@ -147,6 +147,8 @@ https://github.com/nickbild
 
 **C64 Watch is a customized T-Watch 2020 that was inspired by the Commodore 64 computer. It features a C64 theme and a built-in BASIC interpreter (https://github.com/nickbild/c64_watch).**
 - https://gizmodo.com/im-lusting-after-this-custom-commodore-64-smartwatch-th-1847025059
+- https://www.gizmodo.jp/2021/06/commodore-64-watch.html
+- https://www.gizmodo.com.au/2021/06/im-lusting-after-this-custom-commodore-64-smartwatch-that-lets-you-code-in-basic-right-on-your-wrist/
 - https://hackaday.com/2021/06/02/commodore-inspired-watch-puts-basic-on-your-wrist/
 - https://www.wired.it/gadget/smartwatch/2021/06/09/c64-watch-smartwatch-commodore-64/
 - https://www.inputmag.com/tech/this-commodore-64-themed-smartwatch-lets-you-code-with-a-flick-of-the-wrist
