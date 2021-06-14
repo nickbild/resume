@@ -145,6 +145,17 @@ https://github.com/nickbild
 <img src="https://github.com/nickbild/resume/blob/master/media/shaides.gif">
 </p>
 
+**C64 Watch is a customized T-Watch 2020 that was inspired by the Commodore 64 computer. It features a C64 theme and a built-in BASIC interpreter (https://github.com/nickbild/c64_watch).**
+- https://gizmodo.com/im-lusting-after-this-custom-commodore-64-smartwatch-th-1847025059
+- https://hackaday.com/2021/06/02/commodore-inspired-watch-puts-basic-on-your-wrist/
+- https://www.wired.it/gadget/smartwatch/2021/06/09/c64-watch-smartwatch-commodore-64/
+- https://www.inputmag.com/tech/this-commodore-64-themed-smartwatch-lets-you-code-with-a-flick-of-the-wrist
+- https://blog.adafruit.com/2021/06/09/c64-watch-commodore-64-smartwatch-wearablewednesday/
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/nickbild/c64_watch/main/media/watch_angle_dark_sm.jpg">
+</p>
+
 **BrowZen correlates your emotional states with the web sites you visit to give you actionable insights about how you spend your time browsing the web (https://github.com/nickbild/browzen).**
 - https://hackaday.com/2021/02/14/machine-learning-helps-you-track-your-internet-misery-index/
 
@@ -175,6 +186,13 @@ https://github.com/nickbild
 <img src="https://raw.githubusercontent.com/nickbild/memory_pill/master/media/memory_pill.gif">
 </p>
 
+**Play the Atari 2600 with a laser gun (https://github.com/nickbild/laser_blaster)!**
+- https://hackaday.com/2021/06/03/adding-a-laser-blaster-to-classic-atari-2600-games-with-machine-vision/
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/nickbild/laser_blaster/main/media/teaser.gif">
+</p>
+
 **Smart glasses that selectively filter out excessively bright spots in real-time (https://github.com/nickbild/light_brakes).**  
 - https://hackaday.com/2019/10/22/the-futures-so-bright-i-gotta-wear-lcds/
 
@@ -189,6 +207,13 @@ https://github.com/nickbild
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/nickbild/newrons/master/media/teaser.gif">
+</p>
+
+**Play Arduboy games on the big screen with the Arduboy Home game console (https://github.com/nickbild/arduboy_home).**
+- https://hackaday.com/2021/06/01/arduboy-on-the-big-screen/
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/nickbild/arduboy_home/main/media/teaser.gif">
 </p>
 
 **Freedom Shield was developed to protect the rights of individuals to peaceably assemble and petition their government (https://github.com/nickbild/freedom_shield).**
@@ -221,6 +246,14 @@ https://github.com/nickbild
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/nickbild/deepclean/master/media/teaser.gif">
+</p>
+
+**Play gesture-controlled Pong with a Raspberry Pi Pico (https://github.com/nickbild/pico_pong)!**
+- https://hackaday.com/2021/05/13/pi-pico-project-plays-pong-perfectly/
+- https://blog.adafruit.com/2021/05/14/pico-pong-raspberry_pi-piday-raspberrypi/
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/nickbild/pico_pong/main/media/pico_pong.gif">
 </p>
 
 **Safe Meeting keeps an eye on you during your video conferences, and if it sees business-inappropriate attire, the video is immediately muted. (https://github.com/nickbild/safe_meeting).**
